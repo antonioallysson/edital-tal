@@ -1,0 +1,16 @@
+site_name: Edital 23/2024-DG-PAR
+
+theme: material 
+language: pt
+
+
+nav:
+  - index.md
+  - DA_NATUREZA_E_FINALIDADES.md
+  - dos_objetivos.md
+  - requesitos.md
+  - atribuicoes.md
+  - inscricoes.md
+  - vagas.md
+  - processo_seletivo.md
+  - das_disposicoes_gerais.md
