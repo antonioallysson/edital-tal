@@ -9,3 +9,14 @@
 
 **R E S O L V E:**
 Tornar público pelo presente Edital, que estarão abertas as inscrições para o preenchimento de vagas para o Programa de Tutoria em Aprendizagem em Laboratório.
+
+```{toctree}
+da-natureza-e-finalidades.md
+dos-objetivos.md
+requesitos.md
+atribuicoes.md
+inscricoes.md
+vagas.md
+processo-seletivo.md
+das-disposicoes-gerais.md
+```

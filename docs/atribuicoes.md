@@ -22,18 +22,18 @@
 
    1. São atribuições do docente responsável:
 
-1. Elaborar, articuladamente com o Coordenador do curso e o estudante, o plano de atividades a ser desenvolvido pelo Tutor;
+      1. Elaborar, articuladamente com o Coordenador do curso e o estudante, o plano de atividades a ser desenvolvido pelo Tutor;
 
-    2. Orientar e acompanhar o tutor no desempenho das atividades programadas;
+      2. Orientar e acompanhar o tutor no desempenho das atividades programadas;
 
-    3. Capacitar o tutor no uso de metodologias de ensino/aprendizagem adequadas à sua atuação nas atividades propostas;
+      3. Capacitar o tutor no uso de metodologias de ensino/aprendizagem adequadas à sua atuação nas atividades propostas;
 
-    4. Promover o aprofundamento dos conhecimentos do tutor quanto ao conteúdo da disciplina;
+      4. Promover o aprofundamento dos conhecimentos do tutor quanto ao conteúdo da disciplina;
 
-    5. Avaliar, de forma contínua, o desempenho do tutor por meio de critérios previamente estabelecidos, e que sejam do conhecimento do tutor;
+      5. Avaliar, de forma contínua, o desempenho do tutor por meio de critérios previamente estabelecidos, e que sejam do conhecimento do tutor;
 
-    6. Acompanhar a redação do relatório das atividades desenvolvidas, assiná-lo juntamente com o tutor e encaminhá-lo às coordenações de cursos no prazo estabelecido;
+      6. Acompanhar a redação do relatório das atividades desenvolvidas, assiná-lo juntamente com o tutor e encaminhá-lo às coordenações de cursos no prazo estabelecido;
 
-    7. Identificar falhas eventuais no Programa de Tutoria, propor mudanças e encaminhá-las à diretoria de ensino; e
+      7. Identificar falhas eventuais no Programa de Tutoria, propor mudanças e encaminhá-las à diretoria de ensino; e
 
-    8. Encaminhar relatório mensal ao coordenador do curso.
+      8. Encaminhar relatório mensal ao coordenador do curso.
