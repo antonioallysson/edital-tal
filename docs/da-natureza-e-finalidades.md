@@ -1,4 +1,4 @@
-# 1. DA NATUREZA E FINALIDADES
+# 1. Da Natureza E Finalidades
 
 1. A Tutoria e Aprendizagem de Laboratório (TAL), doravante denominada de Tutoria, é uma atividade formativa de ensino extensiva a todos os estudantes matriculados no IFRN e entendida como instrumento para melhoria do ensino nos cursos de pósgraduação, graduação e técnicos e será ligada diretamente à coordenação do curso que o estudante se encontra matriculado.
 
@@ -8,3 +8,4 @@
 
 4. As atividades programadas para o tutor não poderão estar sobrepostas ao seu horário de aula do semestre em que esteja
 matriculado.    
+

@@ -1,4 +1,4 @@
-# 3. DOS REQUISITOS
+# 3. Dos Requisitos
 
 1. São requisitos básicos para o estudante participar do Programa de Tutoria:
 

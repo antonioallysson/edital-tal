@@ -1,4 +1,4 @@
-# 2. DOS OBJETIVOS
+# 2. Dos Objetivos
 
 1. O Programa de Tutoria de Ensino tem os seguintes objetivos:
 
@@ -13,3 +13,5 @@
     5. Contribuir com desenvolvimento do estudante para o ensino técnico e superior;
 
     6. Prestar suporte ao docente no desenvolvimento das práticas pedagógicas, na produção de material de apoio que facilite o processo de ensino-aprendizagem.
+
+    

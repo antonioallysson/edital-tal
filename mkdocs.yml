@@ -6,11 +6,11 @@ language: pt
 
 nav:
   - index.md
-  - DA_NATUREZA_E_FINALIDADES.md
-  - dos_objetivos.md
+  - da-natureza-e-finalidades.md
+  - dos-objetivos.md
   - requesitos.md
   - atribuicoes.md
   - inscricoes.md
   - vagas.md
-  - processo_seletivo.md
-  - das_disposicoes_gerais.md
+  - processo-seletivo.md
+  - das-disposicoes-gerais.md

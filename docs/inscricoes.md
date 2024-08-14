@@ -1,4 +1,4 @@
-# 5. DAS INSCRIÇÕES
+# 5. Das Inscrições
 
 1. As inscrições para Monitoria de Laboratório serão efetivadas **no período de 17 a 22 de julho de 2024** , por meio das seguintes etapas:
 

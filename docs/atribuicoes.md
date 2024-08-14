@@ -1,25 +1,26 @@
-# 4. DAS ATRIBUIÇÕES
-**1. Do Tutor**
+# 4. Das Atribuições
 
-- São atribuições do tutor:  
+1. Do Tutor
 
-    1. Colaborar com o docente no desempenho de tarefas didáticas, tais como: preparação de aulas práticas, aplicação de exercícios, trabalhos escolares e outros de natureza similar condizentes com seu grau de conhecimento e experiência;
+   1. São atribuições do tutor:  
 
-    2. Cumprir as horas semanais de trabalho conforme consta no Edital e de acordo com o calendário pré-determinado pelo docente responsável;
+      1. Colaborar com o docente no desempenho de tarefas didáticas, tais como: preparação de aulas práticas, aplicação de exercícios, trabalhos escolares e outros de natureza similar condizentes com seu grau de conhecimento e experiência;
 
-    3. Cooperar no atendimento e orientação aos estudantes, esclarecendo e tirando dúvidas dos conteúdos ministrados nas aulas e/ou laboratórios, visando sua adaptação e maior integração na instituição;
+      2. Cumprir as horas semanais de trabalho conforme consta no Edital e de acordo com o calendário pré-determinado pelo docente responsável;
 
-    4. Identificar eventuais falhas na execução do processo de ensino, propondo ao docente medidas alternativas;
+      3. Cooperar no atendimento e orientação aos estudantes, esclarecendo e tirando dúvidas dos conteúdos ministrados nas aulas e/ou laboratórios, visando sua adaptação e maior integração na instituição;
 
-    5. Apresentar relatório mensal ao docente da disciplina;
+      4. Identificar eventuais falhas na execução do processo de ensino, propondo ao docente medidas alternativas;
 
-    6. Incentivar a formação de grupos de estudo para discussão e debates sobre os conteúdos ministrados em sala de aula.
+      5. Apresentar relatório mensal ao docente da disciplina;
 
-    7. O(A) tutor(a) não poderá substituir o papel do professor da área/disciplina da qual é monitor(a), ensinando novos conteúdos, aplicando provas ou substituindo o professor em sala de aula.
+      6. Incentivar a formação de grupos de estudo para discussão e debates sobre os conteúdos ministrados em sala de aula.
 
-- Do Docente Responsável:  
+   2. O(A) tutor(a) não poderá substituir o papel do professor da área/disciplina da qual é monitor(a), ensinando novos conteúdos, aplicando provas ou substituindo o professor em sala de aula.
 
-**2. São atribuições do docente responsável:**
+2. Do Docente Responsável:  
+
+   1. São atribuições do docente responsável:
 
 1. Elaborar, articuladamente com o Coordenador do curso e o estudante, o plano de atividades a ser desenvolvido pelo Tutor;
 

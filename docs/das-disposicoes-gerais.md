@@ -1,4 +1,4 @@
-# 8. DAS DISPOSIÇÕES GERAIS
+# 8. Das Disposições Gerais
 1. Caso o aluno aprovado seja beneficiário de outra bolsa dentro do instituto ou com fim semelhante, deverá optar por uma das
 
 2. A inscrição do aluno implicará a aceitação total e incondicional das normas e instruções constantes neste edital. bolsas.

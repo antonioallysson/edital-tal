@@ -1,4 +1,4 @@
-# 7. DO PROCESSO SELETIVO
+# 7. Do Processo Seletivo
 1. O processo seletivo dar-se-á por meio dos seguintes instrumentos: prova escrita e entrevista.
 
 2. A Diretoria Acadêmica, a partir de **23 de julho de 2024** , divulgará datas e horários de aplicação dos instrumentos seletivos.
